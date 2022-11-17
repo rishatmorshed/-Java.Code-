@@ -1,4 +1,4 @@
-package Encapsulation;
+package Constructor;
 
 public class student {
     String name;
