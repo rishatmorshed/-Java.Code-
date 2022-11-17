@@ -1,4 +1,4 @@
-package Encapsulation;
+package Constructor;
 import java.util.Scanner;
 public class Main {
 
